@@ -1,0 +1,7 @@
+/* Import Mantine core styles */
+@import '@mantine/core/styles.css';
+
+
+:root {
+    --color-primary: #007bff;
+}

@@ -1,10 +1,4 @@
-# Astro Starter Kit: Minimal
-
-```sh
-npm create astro@latest -- --template minimal
-```
-
-> 🧑‍🚀 **Astronauta experiente?** Delete este arquivo. Divirta-se!
+# Design System do SisEun
 
 ## 🚀 Estrutura do Projeto
 

@@ -9,7 +9,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "build:tokens": "node sd.config.mjs"
   },
   "dependencies": {
     "@astrojs/react": "^5.0.5",
@@ -22,8 +23,10 @@
     "react-dom": "^19.2.6"
   },
   "devDependencies": {
+    "culori": "^4.0.2",
     "postcss": "^8.5.14",
     "postcss-preset-mantine": "^1.18.0",
-    "postcss-simple-vars": "^7.0.1"
+    "postcss-simple-vars": "^7.0.1",
+    "style-dictionary": "^5.4.4"
   }
 }

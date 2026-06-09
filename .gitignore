@@ -2,6 +2,8 @@
 dist/
 # generated types
 .astro/
+# style dictionary generated tokens
+src/styles/tokens/
 
 # dependencies
 node_modules/

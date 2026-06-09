@@ -23,6 +23,7 @@ const sd = new StyleDictionary({
   platforms: {
     css: {
       transforms: ['attribute/cti', 'name/kebab', 'color/oklch'],
+      prefix: 'siseun',
       buildPath: 'src/styles/tokens/',
       files: [
         {
@@ -37,6 +38,7 @@ const sd = new StyleDictionary({
     },
     js: {
       transforms: ['attribute/cti', 'name/camel', 'color/oklch'],
+      prefix: 'siseun',
       buildPath: 'src/styles/tokens/',
       files: [
         {

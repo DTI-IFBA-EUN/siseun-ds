@@ -87,3 +87,8 @@ O campo `args` é repassado como props ao componente via spread (`<Component {..
 ## 👀 Quer aprender mais?
 
 Fique à vontade para consultar [nossa documentação](https://docs.astro.build) ou entrar no nosso [servidor do Discord](https://astro.build/chat).
+
+# Título 1
+
+## Título 2
+

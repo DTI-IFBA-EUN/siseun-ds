@@ -1,0 +1,16 @@
+{
+  "color": {
+    "red-warm": {
+      "90": { "$value": "#1F1C18", "$type": "color" },
+      "80": { "$value": "#332D29", "$type": "color" },
+      "70": { "$value": "#524236", "$type": "color" },
+      "60": { "$value": "#805039", "$type": "color" },
+      "50": { "$value": "#C3512C", "$type": "color" },
+      "40": { "$value": "#D27A56", "$type": "color" },
+      "30": { "$value": "#DCA081", "$type": "color" },
+      "20": { "$value": "#ECC0A7", "$type": "color" },
+      "10":  { "$value": "#F4E3DB", "$type": "color" },
+      "5": { "$value": "#F6EFEA", "$type": "color"}
+    }
+  }
+}   

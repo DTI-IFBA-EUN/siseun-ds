@@ -1,0 +1,18 @@
+{
+  "color": {
+    "orange": {
+      "90": { "$value": "#1B1614", "$type": "color" },
+      "80": { "$value": "#332D27", "$type": "color" },
+      "70": { "$value": "#524236", "$type": "color" },
+      "60": { "$value": "#775540", "$type": "color" },
+      "50": { "$value": "#A26739", "$type": "color" },
+      "40": { "$value": "#DD7533", "$type": "color" },
+      "30": { "$value": "#F09860", "$type": "color" },
+      "20": { "$value": "#F3BF90", "$type": "color" },
+      "10": { "$value": "#F2E4D4", "$type": "color" },
+      "5":  { "$value": "#F6EFE9", "$type": "color" }
+    }
+  }
+}
+
+    

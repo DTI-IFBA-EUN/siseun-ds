@@ -1,16 +1,16 @@
 {
   "color": {
-    "orange-warm-vivid": {
-      "orange-warm-90": "$orange-warm-90",
-      "orange-warm-80": "$orange-warm-80",
-      "orange-warm-70": "$orange-warm-70",
-      "orange-warm-60": "$orange-warm-60",
-      "orange-warm-50": "$orange-warm-50",
-      "orange-warm-40": "$orange-warm-40",
-      "orange-warm-30": "$orange-warm-30",
-      "orange-warm-20": "$orange-warm-20",
-      "orange-warm-10": "$orange-warm-10",
-      "orange-warm-5": "$orange-warm-5"
+    "orange-warm": {
+      "90": { "$value": "#1C1615", "$type": "color" },
+      "80": { "$value": "#3D2925", "$type": "color" },
+      "70": { "$value": "#633A32", "$type": "color" },
+      "60": { "$value": "#914734", "$type": "color" },
+      "50": { "$value": "#BD5727", "$type": "color" },
+      "40": { "$value": "#E17141", "$type": "color" },
+      "30": { "$value": "#F3966D", "$type": "color" },
+      "20": { "$value": "#F7BCA2", "$type": "color" },
+      "10": { "$value": "#FBE0D0", "$type": "color" },
+      "5":  { "$value": "#FAEEE5", "$type": "color" }
     }
   }
 }

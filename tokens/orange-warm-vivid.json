@@ -1,0 +1,15 @@
+{
+  "color": {
+    "orange-warm-vivid": {
+      "80": "$orange-warm-vivid-80",
+      "70": "$orange-warm-vivid-70",
+      "60": "$orange-warm-vivid-60",
+      "50": "$orange-warm-vivid-50",
+      "40": "$orange-warm-vivid-40",
+      "30": "$orange-warm-vivid-30",
+      "20": "$orange-warm-vivid-20",
+      "10": "$orange-warm-vivid-10",
+      "5": "$orange-warm-vivid-5"
+    }
+  }
+}

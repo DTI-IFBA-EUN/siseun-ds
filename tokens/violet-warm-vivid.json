@@ -1,0 +1,16 @@
+{
+    "color":{
+        "violet-warm-vivid":{
+            "80": {"value": "#481441", "type": "color"},
+            "70": {"value": "#711e6c", "type": "color"},
+            "60": {"value": "#93348c", "type": "color"},
+            "50": {"value": "#be32d0", "type": "color"},
+            "40": {"value": "#d85bef", "type": "color"},
+            "30": {"value": "#ee83ff", "type": "color"},
+            "20": {"value": "#f4b2ff", "type": "color"},
+            "10": {"value": "#fbdcff", "type": "color"},
+            "5": {"value": "#fef2ff", "type": "color"}
+
+        }
+    }
+}

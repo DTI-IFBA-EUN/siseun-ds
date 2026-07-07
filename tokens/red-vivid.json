@@ -1,6 +1,6 @@
 {
   "color": {
-    "red": {
+    "red-vivid": {
       "80": { "$value": "#5C1111", "$type": "color" },
       "70": { "$value": "#8B0A03", "$type": "color" },
       "60": { "$value": "#B50909", "$type": "color" },

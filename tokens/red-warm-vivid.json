@@ -1,6 +1,6 @@
 {
   "color": {
-    "color-red-warn-vivid": {
+    "red-warm-vivid": {
       "80": { "$value": "#3E2A1E", "$type": "color" },
       "70": { "$value": "#63340F", "$type": "color" },
       "60": { "$value": "#9C3D10", "$type": "color" },

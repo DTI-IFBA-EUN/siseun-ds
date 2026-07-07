@@ -1,0 +1,9 @@
+{
+    "spacing": {
+        "base": { "$value": "8px", "$type": "spacing" },
+        "scale": {
+            "default": { "$value": "0px", "$type": "spacing" },
+            "half":    { "$value": "calc({spacing.base} * 0.5)", "$type": "spacing" }
+        }
+    }
+}

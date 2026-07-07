@@ -1,7 +1,12 @@
 /* Import Mantine core styles */
 @import '@mantine/core/styles.css';
+@import '@fontsource-variable/raleway/wght.css';
 
 
 :root {
     --color-primary: #007bff;
+}
+
+body {
+    font-family: 'Raleway Variable', sans-serif;
 }

@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@astrojs/react": "^5.0.5",
+    "@fontsource-variable/raleway": "^5.2.8",
     "@mantine/core": "^9.2.1",
     "@mantine/hooks": "^9.2.1",
     "@types/react": "^19.2.14",
@@ -28,5 +29,9 @@
     "postcss-preset-mantine": "^1.18.0",
     "postcss-simple-vars": "^7.0.1",
     "style-dictionary": "^5.4.4"
+  },
+  "allowScripts": {
+    "esbuild@0.27.7": true,
+    "sharp@0.34.5": true
   }
 }

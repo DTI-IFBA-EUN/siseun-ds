@@ -1,0 +1,15 @@
+{
+  "color": {
+    "green-vivid": {
+      "80": { "$value": "#243413", "$type": "color" },
+      "70": { "$value": "#2f4a0b", "$type": "color" },
+      "60": { "$value": "#466c04", "$type": "color" },
+      "50": { "$value": "#538200", "$type": "color" },
+      "40": { "$value": "#719f2a", "$type": "color" },
+      "30": { "$value": "#7fb135", "$type": "color" },
+      "20": { "$value": "#98d035", "$type": "color" },
+      "10": { "$value": "#c5ee93", "$type": "color" },
+      "5":  { "$value": "#ddf9c7", "$type": "color" }
+    }
+  }
+}

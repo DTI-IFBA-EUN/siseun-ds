@@ -1,0 +1,16 @@
+{
+  "color": {
+    "indigo": {
+      "90": { "$value": "#16171f", "$type": "color" },
+      "80": { "$value": "#2b2c40", "$type": "color" },
+      "70": { "$value": "#3d4076", "$type": "color" },
+      "60": { "$value": "#4d52af", "$type": "color" },
+      "50": { "$value": "#676cc8", "$type": "color" },
+      "40": { "$value": "#8889db", "$type": "color" },
+      "30": { "$value": "#a5a8eb", "$type": "color" },
+      "20": { "$value": "#c5c5f3", "$type": "color" },
+      "10": { "$value": "#e5e4fa", "$type": "color" },
+      "5":  { "$value": "#efeff8", "$type": "color" }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "color": {
+    "orange-warm-vivid": {
+      "80": { "$value": "#3D231D", "$type": "color" },
+      "70": { "$value": "#782312", "$type": "color" },
+      "60": { "$value": "#A72F10", "$type": "color" },
+      "50": { "$value": "#CF4900", "$type": "color" },
+      "40": { "$value": "#FF580A", "$type": "color" },
+      "30": { "$value": "#FC906D", "$type": "color" },
+      "20": { "$value": "#FBBAA7", "$type": "color" },
+      "10": { "$value": "#FFE2D1", "$type": "color" },
+      "5":  { "$value": "#FFF3EA", "$type": "color" }
+    }
+  }
+}
+

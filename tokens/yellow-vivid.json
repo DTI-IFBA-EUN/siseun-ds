@@ -1,0 +1,15 @@
+{
+  "color": {
+    "yellow-vivid": {
+      "80": { "$value": "#422D19", "$type": "color" },
+      "70": { "$value": "#5C4809", "$type": "color" },
+      "60": { "$value": "#776017", "$type": "color" },
+      "50": { "$value": "#947100", "$type": "color" },
+      "40": { "$value": "#B38C00", "$type": "color" },
+      "30": { "$value": "#DDAA01", "$type": "color" },
+      "20": { "$value": "#FFCD07", "$type": "color" },
+      "10": { "$value": "#FEE685", "$type": "color" },
+      "5":  { "$value": "#FFF5C2", "$type": "color" }
+    }
+  }
+}   

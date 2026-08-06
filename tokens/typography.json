@@ -1,13 +1,130 @@
 {
     "font": {
         "weight": {
-            "thin": { "$value": 100, "$type": "fontWeight" }
+            "thin": {
+                "$value": 100,
+                "$type": "fontWeight"
+            },
+            "extra-light": {
+                "$value": 200,
+                "$type": "fontWeight"
+            },
+            "light": {
+                "$value": 300,
+                "$type": "fontWeight"
+            },
+            "regular": {
+                "$value": 400,
+                "$type": "fontWeight"
+            },
+            "medium": {
+                "$value": 500,
+                "$type": "fontWeight"
+            },
+            "semi-bold": {
+                "$value": 600,
+                "$type": "fontWeight"
+            },
+            "bold": {
+                "$value": 700,
+                "$type": "fontWeight"
+            },
+            "extra-bold": {
+                "$value": 800,
+                "$type": "fontWeight"
+            },
+            "black": {
+                "$value": 900,
+                "$type": "fontWeight"
+            }
         },
         "size": {
             "scale": {
-                "base": { "$value": "14px", "$type": "dimension" },
+                "base": {
+                    "$value": "14px",
+                    "$type": "dimension"
+                },
                 "down": {
-                    "01": { "$value": "calc({font.size.scale.base} * 0.833)", "$type": "dimension" }
+                    "01": {
+                        "$value": "calc({font.size.scale.base} * 0.833)",
+                        "$type": "dimension"
+                    },
+                    "02": {
+                        "$value": "calc({font.size.scale.base} * 0.694)",
+                        "$type": "dimension"
+                    },
+                    "03": {
+                        "$value": "calc({font.size.scale.base} * 0.579)",
+                        "$type": "dimension"
+                    }
+                },
+                "up": {
+                    "01": {
+                        "$value": "calc({font.size.scale.base} * 1.2)",
+                        "$type": "dimension"
+                    },
+                    "02": {
+                        "$value": "calc({font.size.scale.base} * 1.44)",
+                        "$type": "dimension"
+                    },
+                    "03": {
+                        "$value": "calc({font.size.scale.base} * 1.728)",
+                        "$type": "dimension"
+                    },
+                    "04": {
+                        "$value": "calc({font.size.scale.base} * 2.074)",
+                        "$type": "dimension"
+                    },
+                    "05": {
+                        "$value": "calc({font.size.scale.base} * 2.488)",
+                        "$type": "dimension"
+                    },
+                    "06": {
+                        "$value": "calc({font.size.scale.base} * 2.986)",
+                        "$type": "dimension"
+                    },
+                    "07": {
+                        "$value": "calc({font.size.scale.base} * 3.583)",
+                        "$type": "dimension"
+                    },
+                    "08": {
+                        "$value": "calc({font.size.scale.base} * 4.3)",
+                        "$type": "dimension"
+                    },
+                    "09": {
+                        "$value": "calc({font.size.scale.base} * 5.16)",
+                        "$type": "dimension"
+                    },
+                    "10": {
+                        "$value": "calc({font.size.scale.base} * 6.192)",
+                        "$type": "dimension"
+                    },
+                    "11": {
+                        "$value": "calc({font.size.scale.base} * 7.43)",
+                        "$type": "dimension"
+                    }
+                }
+            }
+        },
+        "family": {
+            "base": {
+                "$value": "\"Rawline\", \"Raleway\", sans-serif",
+                "$type": "fontFamily"
+            }
+        },
+        "line": {
+            "height": {
+                "low": {
+                    "$value": 1.15,
+                    "$type": "number"
+                },
+                "medium": {
+                    "$value": 1.45,
+                    "$type": "number"
+                },
+                "high": {
+                    "$value": 1.85,
+                    "$type": "number"
                 }
             }
         }

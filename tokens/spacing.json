@@ -1,6 +1,16 @@
 
 {
   "spacing": {
+    "vertical": {
+      "top": { "$value": "top", "$type": "string" },
+      "center": { "$value": "center", "$type": "string" },
+      "bottom": { "$value": "bottom", "$type": "string" }
+    },
+    "horizontal": {
+      "left": { "$value": "left", "$type": "string" },
+      "center": { "$value": "center", "$type": "string" },
+      "right": { "$value": "right", "$type": "string" }
+    },
     "base": {
       "$value": "8px",
       "$type": "spacing"

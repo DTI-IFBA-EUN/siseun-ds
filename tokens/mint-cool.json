@@ -1,0 +1,16 @@
+{
+  "color": {
+    "mint-cool": {
+      "90": { "$value": "#111818", "$type": "color" },
+      "80": { "$value": "#203131", "$type": "color" },
+      "70": { "$value": "#2A4B45", "$type": "color" },
+      "60": { "$value": "#376462", "$type": "color" },
+      "50": { "$value": "#40807E", "$type": "color" },
+      "40": { "$value": "#4F9E99", "$type": "color" },
+      "30": { "$value": "#6FBAB3", "$type": "color" },
+      "20": { "$value": "#9BD4CF", "$type": "color" },
+      "10": { "$value": "#C4EEEB", "$type": "color" },
+      "5": { "$value": "#E0F7F6", "$type": "color" }
+    }
+  }
+}

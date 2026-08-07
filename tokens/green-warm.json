@@ -2,15 +2,15 @@
   "color": {
     "green-warm": {
       "90": { "$value": "#171712", "$type": "color" },
-      "80": { "$value": "#2d2f21", "$type": "color" },
-      "70": { "$value": "#45472f", "$type": "color" },
-      "60": { "$value": "#5a5f38", "$type": "color" },
-      "50": { "$value": "#6f7a41", "$type": "color" },
-      "40": { "$value": "#8a984b", "$type": "color" },
-      "30": { "$value": "#a6b557", "$type": "color" },
-      "20": { "$value": "#cbd17a", "$type": "color" },
-      "10": { "$value": "#e7eab7", "$type": "color" },
-      "5":  { "$value": "#f1f4d7", "$type": "color" }
+      "80": { "$value": "#2D2F21", "$type": "color" },
+      "70": { "$value": "#45472F", "$type": "color" },
+      "60": { "$value": "#5A5F38", "$type": "color" },
+      "50": { "$value": "#6F7A41", "$type": "color" },
+      "40": { "$value": "#8A984B", "$type": "color" },
+      "30": { "$value": "#A6B557", "$type": "color" },
+      "20": { "$value": "#CBD17A", "$type": "color" },
+      "10": { "$value": "#E7EAB7", "$type": "color" },
+      "5":  { "$value": "#F1F4D7", "$type": "color" }
     }
   }
 }

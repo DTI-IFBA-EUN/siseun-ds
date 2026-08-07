@@ -1,0 +1,15 @@
+{
+  "color": {
+    "mint-cool-vivid": {
+      "80": { "$value": "#123131", "$type": "color" },
+      "70": { "$value": "#0B4B3F", "$type": "color" },
+      "60": { "$value": "#0F6460", "$type": "color" },
+      "50": { "$value": "#008480", "$type": "color" },
+      "40": { "$value": "#36A191", "$type": "color" },
+      "30": { "$value": "#1DC2AE", "$type": "color" },
+      "20": { "$value": "#40E0D0", "$type": "color" },
+      "10": { "$value": "#7EFBE1", "$type": "color" },
+      "5":  { "$value": "#D5FBF3", "$type": "color" }
+    }
+  }
+}

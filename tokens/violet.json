@@ -1,0 +1,16 @@
+{
+  "color": {
+    "violet": {
+      "90": { "$value": "#18161D", "$type": "color" },
+      "80": { "$value": "#312B3F", "$type": "color" },
+      "70": { "$value": "#4C3D69", "$type": "color" },
+      "60": { "$value": "#665190", "$type": "color" },
+      "50": { "$value": "#8168B3", "$type": "color" },
+      "40": { "$value": "#9D84D2", "$type": "color" },
+      "30": { "$value": "#B8A2E3", "$type": "color" },
+      "20": { "$value": "#D0C3E9", "$type": "color" },
+      "10": { "$value": "#EBE3F9", "$type": "color" },
+      "5":  { "$value": "#F4F1F9", "$type": "color" }
+    }
+  }
+}   

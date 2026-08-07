@@ -1,0 +1,115 @@
+.title {
+  margin: 0;
+}
+
+.title.light {
+  color: var(--siseun-color-gray-80);
+}
+
+.title.dark {
+  color: var(--siseun-color-gray-1);
+}
+
+/* 12-column and 8-column grid share the same rules */
+.order1Grid12,
+.order1Grid8 {
+  margin-bottom: var(--siseun-spacing-scale-4x);
+  margin-top: var(--siseun-spacing-scale-default);
+  font-weight: var(--siseun-font-weight-light);
+  font-size: var(--siseun-font-size-scale-up-06);
+  line-height: var(--siseun-font-line-height-low);
+}
+
+.order2Grid12,
+.order2Grid8 {
+  margin-bottom: var(--siseun-spacing-scale-2xh);
+  margin-top: var(--siseun-spacing-scale-3xh);
+  font-weight: var(--siseun-font-weight-regular);
+  font-size: var(--siseun-font-size-scale-up-05);
+  line-height: var(--siseun-font-line-height-low);
+}
+
+.order3Grid12,
+.order3Grid8 {
+  margin-bottom: var(--siseun-spacing-scale-2xh);
+  margin-top: var(--siseun-spacing-scale-3xh);
+  font-weight: var(--siseun-font-weight-medium);
+  font-size: var(--siseun-font-size-scale-up-04);
+  line-height: var(--siseun-font-line-height-low);
+}
+
+.order4Grid12,
+.order4Grid8 {
+  margin-bottom: var(--siseun-spacing-scale-2xh);
+  margin-top: var(--siseun-spacing-scale-3xh);
+  font-weight: var(--siseun-font-weight-semi-bold);
+  font-size: var(--siseun-font-size-scale-up-03);
+  line-height: var(--siseun-font-line-height-low);
+}
+
+.order5Grid12,
+.order5Grid8 {
+  margin-bottom: var(--siseun-spacing-scale-2x);
+  margin-top: var(--siseun-spacing-scale-3xh);
+  font-weight: var(--siseun-font-weight-bold);
+  font-size: var(--siseun-font-size-scale-up-02);
+  line-height: var(--siseun-font-line-height-low);
+}
+
+.order6Grid12,
+.order6Grid8 {
+  margin-bottom: var(--siseun-spacing-scale-2x);
+  margin-top: var(--siseun-spacing-scale-3xh);
+  font-weight: var(--siseun-font-weight-extra-bold);
+  font-size: var(--siseun-font-size-scale-up-01);
+  line-height: var(--siseun-font-line-height-low);
+}
+
+/* 4-column grid */
+.order1Grid4 {
+  margin-bottom: var(--siseun-spacing-scale-2xh);
+  margin-top: var(--siseun-spacing-scale-default);
+  font-weight: var(--siseun-font-weight-medium);
+  font-size: var(--siseun-font-size-scale-up-04);
+  line-height: var(--siseun-font-line-height-medium);
+}
+
+.order2Grid4 {
+  margin-bottom: var(--siseun-spacing-scale-default);
+  margin-top: var(--siseun-spacing-scale-default);
+  font-weight: var(--siseun-font-weight-semi-bold);
+  font-size: var(--siseun-font-size-scale-up-03);
+  line-height: var(--siseun-font-line-height-medium);
+}
+
+.order3Grid4 {
+  margin-bottom: var(--siseun-spacing-scale-default);
+  margin-top: var(--siseun-spacing-scale-default);
+  font-weight: var(--siseun-font-weight-bold);
+  font-size: var(--siseun-font-size-scale-up-02);
+  line-height: var(--siseun-font-line-height-medium);
+}
+
+.order4Grid4 {
+  margin-bottom: var(--siseun-spacing-scale-default);
+  margin-top: var(--siseun-spacing-scale-2x);
+  font-weight: var(--siseun-font-weight-bold);
+  font-size: var(--siseun-font-size-scale-up-01);
+  line-height: var(--siseun-font-line-height-medium);
+}
+
+.order5Grid4 {
+  margin-bottom: var(--siseun-spacing-scale-default);
+  margin-top: var(--siseun-spacing-scale-2x);
+  font-weight: var(--siseun-font-weight-extra-bold);
+  font-size: var(--siseun-font-size-scale-base);
+  line-height: var(--siseun-font-line-height-medium);
+}
+
+.order6Grid4 {
+  margin-bottom: var(--siseun-spacing-scale-default);
+  margin-top: var(--siseun-spacing-scale-3x);
+  font-weight: var(--siseun-font-weight-extra-bold);
+  font-size: var(--siseun-font-size-scale-down-01);
+  line-height: var(--siseun-font-line-height-medium);
+}

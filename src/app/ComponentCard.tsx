@@ -1,5 +1,5 @@
 import type { ComponentType } from "react";
-import { Box, Card, Divider, Stack, Text, Title } from "@mantine/core";
+import { Box, Card, Stack, Text, Title } from "@mantine/core";
 
 interface ComponentCardProps {
   name: string;
@@ -21,8 +21,8 @@ export function ComponentCard({
         <Text c="dimmed" size="sm">
           {description}
         </Text>
-        <Divider />
-        <Box>
+        
+        <Box style={{ marginTop: '1rem', minHeight: '80px' }}>
           <Component {...args} />
         </Box>
       </Stack>

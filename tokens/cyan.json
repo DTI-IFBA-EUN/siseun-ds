@@ -3,14 +3,14 @@
     "cyan": {
       "90": { "$value": "#111819", "$type": "color" },
       "80": { "$value": "#203133", "$type": "color" },
-      "70": { "$value": "#2c4a4e", "$type": "color" },
-      "60": { "$value": "#2a646d", "$type": "color" },
+      "70": { "$value": "#2C4A4E", "$type": "color" },
+      "60": { "$value": "#2A646D", "$type": "color" },
       "50": { "$value": "#168092", "$type": "color" },
-      "40": { "$value": "#449dac", "$type": "color" },
-      "30": { "$value": "#5dc0d1", "$type": "color" },
-      "20": { "$value": "#99deea", "$type": "color" },
-      "10": { "$value": "#ccecf2", "$type": "color" },
-      "5":  { "$value": "#e7f6f8", "$type": "color" }
+      "40": { "$value": "#449DAC", "$type": "color" },
+      "30": { "$value": "#5DC0D1", "$type": "color" },
+      "20": { "$value": "#99DEEA", "$type": "color" },
+      "10": { "$value": "#CCECF2", "$type": "color" },
+      "5":  { "$value": "#E7F6F8", "$type": "color" }
     }
   }
 }

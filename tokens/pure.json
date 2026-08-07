@@ -1,0 +1,8 @@
+{
+  "color": {
+    "pure": {
+      "0": { "$value": "#FFFFFF", "$type": "color" },
+      "100": { "$value": "#000000", "$type": "color" }
+    }
+  }
+}

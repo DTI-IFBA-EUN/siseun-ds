@@ -1,0 +1,16 @@
+{
+  "color": {
+    "magenta": {
+      "90": { "$value": "#1B1617", "$type": "color" },
+      "80": { "$value": "#402731", "$type": "color" },
+      "70": { "$value": "#66364B", "$type": "color" },
+      "60": { "$value": "#8B4566", "$type": "color" },
+      "50": { "$value": "#C84281", "$type": "color" },
+      "40": { "$value": "#E0699F", "$type": "color" },
+      "30": { "$value": "#E895B3", "$type": "color" },
+      "20": { "$value": "#F0BBCC", "$type": "color" },
+      "10": { "$value": "#F6E1E8", "$type": "color" },
+      "5": { "$value": "#F9F0F2", "$type": "color" }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "color": {
+    "magenta-vivid": {
+      "80": { "$value": "#4F172E", "$type": "color" },
+      "70": { "$value": "#731F44", "$type": "color" },
+      "60": { "$value": "#AB2165", "$type": "color" },
+      "50": { "$value": "#D72D79", "$type": "color" },
+      "40": { "$value": "#FD4496", "$type": "color" },
+      "30": { "$value": "#FF87B2", "$type": "color" },
+      "20": { "$value": "#FFB4CF", "$type": "color" },
+      "10": { "$value": "#FFDDEA", "$type": "color" },
+      "5":  { "$value": "#FFF2F5", "$type": "color" }
+    }
+  }
+}

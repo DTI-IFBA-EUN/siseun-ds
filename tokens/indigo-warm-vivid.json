@@ -1,15 +1,15 @@
 {
   "color": {
     "indigo-warm-vivid": {
-      "80": { "$value": "#261f5b", "$type": "color" },
-      "70": { "$value": "#3d2c9d", "$type": "color" },
-      "60": { "$value": "#5942d2", "$type": "color" },
-      "50": { "$value": "#745fe9", "$type": "color" },
-      "40": { "$value": "#967efb", "$type": "color" },
-      "30": { "$value": "#b69fff", "$type": "color" },
-      "20": { "$value": "#cfc4fd", "$type": "color" },
-      "10": { "$value": "e4deff", "$type": "color" },
-      "5":  { "$value": "#f5f2ff", "$type": "color" }
+      "80": { "$value": "#261F5B", "$type": "color" },
+      "70": { "$value": "#3D2C9D", "$type": "color" },
+      "60": { "$value": "#5942D2", "$type": "color" },
+      "50": { "$value": "#745FE9", "$type": "color" },
+      "40": { "$value": "#967EFB", "$type": "color" },
+      "30": { "$value": "#B69FFF", "$type": "color" },
+      "20": { "$value": "#CFC4FD", "$type": "color" },
+      "10": { "$value": "#E4DEFF", "$type": "color" },
+      "5":  { "$value": "#F5F2FF", "$type": "color" }
     }
   }
 }

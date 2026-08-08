@@ -11,8 +11,8 @@
 }
 
 /* 12-column and 8-column grid share the same rules */
-.order1Grid12,
-.order1Grid8 {
+.grid12-order1,
+.grid8-order1 {
   margin-bottom: var(--siseun-spacing-scale-4x);
   margin-top: var(--siseun-spacing-scale-default);
   font-weight: var(--siseun-font-weight-light);
@@ -20,8 +20,8 @@
   line-height: var(--siseun-font-line-height-low);
 }
 
-.order2Grid12,
-.order2Grid8 {
+.grid12-order2,
+.grid8-order2 {
   margin-bottom: var(--siseun-spacing-scale-2xh);
   margin-top: var(--siseun-spacing-scale-3xh);
   font-weight: var(--siseun-font-weight-regular);
@@ -29,8 +29,8 @@
   line-height: var(--siseun-font-line-height-low);
 }
 
-.order3Grid12,
-.order3Grid8 {
+.grid12-order3,
+.grid8-order3 {
   margin-bottom: var(--siseun-spacing-scale-2xh);
   margin-top: var(--siseun-spacing-scale-3xh);
   font-weight: var(--siseun-font-weight-medium);
@@ -38,8 +38,8 @@
   line-height: var(--siseun-font-line-height-low);
 }
 
-.order4Grid12,
-.order4Grid8 {
+.grid12-order4,
+.grid8-order4 {
   margin-bottom: var(--siseun-spacing-scale-2xh);
   margin-top: var(--siseun-spacing-scale-3xh);
   font-weight: var(--siseun-font-weight-semi-bold);
@@ -47,8 +47,8 @@
   line-height: var(--siseun-font-line-height-low);
 }
 
-.order5Grid12,
-.order5Grid8 {
+.grid12-order5,
+.grid8-order5 {
   margin-bottom: var(--siseun-spacing-scale-2x);
   margin-top: var(--siseun-spacing-scale-3xh);
   font-weight: var(--siseun-font-weight-bold);
@@ -56,8 +56,8 @@
   line-height: var(--siseun-font-line-height-low);
 }
 
-.order6Grid12,
-.order6Grid8 {
+.grid12-order6,
+.grid8-order6 {
   margin-bottom: var(--siseun-spacing-scale-2x);
   margin-top: var(--siseun-spacing-scale-3xh);
   font-weight: var(--siseun-font-weight-extra-bold);
@@ -66,7 +66,7 @@
 }
 
 /* 4-column grid */
-.order1Grid4 {
+.grid4-order1 {
   margin-bottom: var(--siseun-spacing-scale-2xh);
   margin-top: var(--siseun-spacing-scale-default);
   font-weight: var(--siseun-font-weight-medium);
@@ -74,7 +74,7 @@
   line-height: var(--siseun-font-line-height-medium);
 }
 
-.order2Grid4 {
+.grid4-order2 {
   margin-bottom: var(--siseun-spacing-scale-default);
   margin-top: var(--siseun-spacing-scale-default);
   font-weight: var(--siseun-font-weight-semi-bold);
@@ -82,7 +82,7 @@
   line-height: var(--siseun-font-line-height-medium);
 }
 
-.order3Grid4 {
+.grid4-order3 {
   margin-bottom: var(--siseun-spacing-scale-default);
   margin-top: var(--siseun-spacing-scale-default);
   font-weight: var(--siseun-font-weight-bold);
@@ -90,7 +90,7 @@
   line-height: var(--siseun-font-line-height-medium);
 }
 
-.order4Grid4 {
+.grid4-order4 {
   margin-bottom: var(--siseun-spacing-scale-default);
   margin-top: var(--siseun-spacing-scale-2x);
   font-weight: var(--siseun-font-weight-bold);
@@ -98,7 +98,7 @@
   line-height: var(--siseun-font-line-height-medium);
 }
 
-.order5Grid4 {
+.grid4-order5 {
   margin-bottom: var(--siseun-spacing-scale-default);
   margin-top: var(--siseun-spacing-scale-2x);
   font-weight: var(--siseun-font-weight-extra-bold);
@@ -106,7 +106,7 @@
   line-height: var(--siseun-font-line-height-medium);
 }
 
-.order6Grid4 {
+.grid4-order6 {
   margin-bottom: var(--siseun-spacing-scale-default);
   margin-top: var(--siseun-spacing-scale-3x);
   font-weight: var(--siseun-font-weight-extra-bold);

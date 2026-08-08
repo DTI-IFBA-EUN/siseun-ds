@@ -1,7 +1,6 @@
 import type { ComponentType, PropsWithChildren } from "react";
 import { StandardButton } from "../components/react/button/StandardButton";
 import { DisabledButton } from "../components/react/button/DisabledButton";
-import { SisEunDivider } from "../components/react/SisEunDivider";
 
 import { SisEunTitle } from "../components/react/title/SisEunTitle";
 
@@ -36,7 +35,6 @@ export const listOfComponents: ComponentEntry[] = [
     args: {
       order: 1,
       children: "SisEun",
-      grid: 12
     },
   },
   {

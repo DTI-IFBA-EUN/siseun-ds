@@ -5,6 +5,9 @@ dist/
 # style dictionary generated tokens
 src/styles/tokens/
 
+# test file for react components
+src/app/Test.tsx
+
 # dependencies
 node_modules/
 

@@ -22,7 +22,8 @@
     "astro": "^6.3.5",
     "clsx": "^2.1.1",
     "react": "^19.2.6",
-    "react-dom": "^19.2.6"
+    "react-dom": "^19.2.6",
+    "typescript": "^7.0.2"
   },
   "devDependencies": {
     "culori": "^4.0.2",

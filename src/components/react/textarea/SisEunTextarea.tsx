@@ -4,7 +4,10 @@ import type { MantineSize } from "@mantine/core";
 interface SisEunTextareaProps {
   size?: MantineSize;
   isResizeble?: boolean;
-
+  label?: React.ReactNode;
+  placeholder?: string;
+  hasAuxiliarText?: boolean;
+  maxLenght?: number;
 }
 
 export function SisEunTextarea(props: SisEunTextareaProps) {
@@ -15,7 +18,7 @@ export function SisEunTextarea(props: SisEunTextareaProps) {
 
 
     return(
-        <Textarea size={size} resize={Resize}>
+        <Textarea size={size} label={props.label} placeholder={props.placeholder} resize={Resize}>
             
         </Textarea>
     )

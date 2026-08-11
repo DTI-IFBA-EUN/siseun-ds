@@ -19,7 +19,13 @@ export function SisEunDivider(props: SisEunDividerProps) {
     <Divider
       size={size}
       variant={style}
-      className={clsx(isDark && classes.dark, !isDark && classes.light, classes.divider)}
+      className={
+        clsx(
+            isDark && classes.dark,
+            !isDark && classes.light,
+            classes.divider
+        )
+      }
     />
   );
 }

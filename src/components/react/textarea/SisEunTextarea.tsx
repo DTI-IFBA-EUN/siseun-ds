@@ -2,6 +2,8 @@ import { Textarea } from '@mantine/core';
 import type { MantineSize } from "@mantine/core";
 import { boolean, maxLength, number } from 'astro:schema';
 import { useState } from 'react';
+import clsx from "clsx";
+
 
 interface SisEunTextareaProps {
   size?: MantineSize;
@@ -18,9 +20,11 @@ export function SisEunTextarea(props: SisEunTextareaProps) {
     const Resize = props.isResizeble ? "both" : "none";
 
     const [value, setValue] = useState(props.value ?? '');
-    const maxLength = props.maxLength ?? Number.POSITIVE_INFINITY;
+    const maxLength = props.maxLength;
+    const hasAuxiliarText = props.hasAuxiliarText;
     
-    console.log(value.length)
+    const auxiliarText = hasAuxiliarText ? getAuxiliarText(maxLength ?? 0, value.length): "";
+    
     return(
         <Textarea 
             size={size}
@@ -30,8 +34,20 @@ export function SisEunTextarea(props: SisEunTextareaProps) {
             value={value}
             maxLength={props.maxLength}
             onChange={(event) => setValue(event.currentTarget.value.slice(0, maxLength))}
-            bottomSection={`Restam ${maxLength - value.length}`}
+            bottomSection={auxiliarText}
             >
         </Textarea>
     )
 }
+
+    function getAuxiliarText(max:number, current:number) {
+        if(max > 0 && current === 0)
+            return(`Limite máximo de ${max} caracteres`);
+        
+        if(max > 0 && current > 0)
+            return(`Restam ${max - current} caracteres`);
+        
+        if(max <= 0 && current >= 0)
+            return(`${current} caratere(s) digitado(s)`);
+    
+    }

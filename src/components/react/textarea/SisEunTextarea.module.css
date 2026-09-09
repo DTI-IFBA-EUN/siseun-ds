@@ -1,0 +1,25 @@
+.textArea{
+    margin-top: var(--siseun-spacing-scale-half);
+    margin-bottom: var(--siseun-spacing-scale-base);
+    padding-right: var(--siseun-spacing-scale-2x);
+}
+
+
+
+.low{
+    padding-top: var(--siseun-spacing-scale-2x);
+    padding-bottom: var(--siseun-spacing-scale-2x);
+    padding-left: var(--siseun-spacing-scale-2x);
+}
+
+.mid{
+    padding-top: var(--siseun-spacing-scale-baseh);
+    padding-bottom: var(--siseun-spacing-scale-baseh);
+    padding-left: var(--siseun-spacing-scale-baseh);
+}
+
+.high{
+    padding-top: var(--siseun-spacing-scale-base);
+    padding-bottom: var(--siseun-spacing-scale-base);
+    padding-left: var(--siseun-spacing-scale-base);
+}
